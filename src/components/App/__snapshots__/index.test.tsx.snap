@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> 1`] = `
+<div>
+  <form>
+    <p>
+      <label
+        for="firstName"
+      >
+        First Name
+      </label>
+      <input
+        id="firstName"
+        name="firstName"
+        type="text"
+        value=""
+      />
+    </p>
+    <p>
+      <label>
+        Last Name
+      </label>
+      <input
+        id="lastName"
+        name="lastName"
+        type="text"
+        value=""
+      />
+    </p>
+    <p>
+      <label>
+        Email Address
+      </label>
+      <input
+        id="email"
+        name="email"
+        type="email"
+        value=""
+      />
+    </p>
+    <p>
+      <label>
+        Password
+      </label>
+      <input
+        id="password"
+        name="password"
+        type="password"
+        value=""
+      />
+    </p>
+    <p>
+      <button
+        type="submit"
+      >
+        Submit
+      </button>
+    </p>
+  </form>
+</div>
+`;

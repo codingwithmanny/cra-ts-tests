@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "editor.fontSize": 12,
+  "editor.formatOnType": true,
+  "eslint.autoFixOnSave": true
+}
